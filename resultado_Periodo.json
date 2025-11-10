@@ -1,0 +1,1250 @@
+{
+    "@odata.context": "https://was-p.bcnet.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata$metadata#_CotacaoDolarPeriodo(cotacaoCompra,cotacaoVenda,dataHoraCotacao)",
+    "value": [
+        {
+            "cotacaoCompra": 5.343,
+            "cotacaoVenda": 5.3436,
+            "dataHoraCotacao": "2023-01-02 13:05:57.593"
+        },
+        {
+            "cotacaoCompra": 5.3753,
+            "cotacaoVenda": 5.3759,
+            "dataHoraCotacao": "2023-01-03 13:11:19.08"
+        },
+        {
+            "cotacaoCompra": 5.4453,
+            "cotacaoVenda": 5.4459,
+            "dataHoraCotacao": "2023-01-04 13:09:19.572"
+        },
+        {
+            "cotacaoCompra": 5.402,
+            "cotacaoVenda": 5.4026,
+            "dataHoraCotacao": "2023-01-05 13:03:32.262"
+        },
+        {
+            "cotacaoCompra": 5.2849,
+            "cotacaoVenda": 5.2855,
+            "dataHoraCotacao": "2023-01-06 13:02:28.727"
+        },
+        {
+            "cotacaoCompra": 5.2961,
+            "cotacaoVenda": 5.2967,
+            "dataHoraCotacao": "2023-01-09 13:07:16.725"
+        },
+        {
+            "cotacaoCompra": 5.2389,
+            "cotacaoVenda": 5.2395,
+            "dataHoraCotacao": "2023-01-10 13:05:25.681"
+        },
+        {
+            "cotacaoCompra": 5.2014,
+            "cotacaoVenda": 5.202,
+            "dataHoraCotacao": "2023-01-11 13:07:22.492"
+        },
+        {
+            "cotacaoCompra": 5.1394,
+            "cotacaoVenda": 5.14,
+            "dataHoraCotacao": "2023-01-12 13:09:27.278"
+        },
+        {
+            "cotacaoCompra": 5.114,
+            "cotacaoVenda": 5.1146,
+            "dataHoraCotacao": "2023-01-13 13:10:23.139"
+        },
+        {
+            "cotacaoCompra": 5.1109,
+            "cotacaoVenda": 5.1115,
+            "dataHoraCotacao": "2023-01-16 13:07:23.23"
+        },
+        {
+            "cotacaoCompra": 5.1197,
+            "cotacaoVenda": 5.1203,
+            "dataHoraCotacao": "2023-01-17 13:09:23.089"
+        },
+        {
+            "cotacaoCompra": 5.0903,
+            "cotacaoVenda": 5.0909,
+            "dataHoraCotacao": "2023-01-18 13:11:36.521"
+        },
+        {
+            "cotacaoCompra": 5.2138,
+            "cotacaoVenda": 5.2144,
+            "dataHoraCotacao": "2023-01-19 13:07:18.678"
+        },
+        {
+            "cotacaoCompra": 5.198,
+            "cotacaoVenda": 5.1986,
+            "dataHoraCotacao": "2023-01-20 13:08:32.655"
+        },
+        {
+            "cotacaoCompra": 5.1916,
+            "cotacaoVenda": 5.1922,
+            "dataHoraCotacao": "2023-01-23 13:10:05.284"
+        },
+        {
+            "cotacaoCompra": 5.169,
+            "cotacaoVenda": 5.1696,
+            "dataHoraCotacao": "2023-01-24 13:07:36.435"
+        },
+        {
+            "cotacaoCompra": 5.1036,
+            "cotacaoVenda": 5.1042,
+            "dataHoraCotacao": "2023-01-25 13:05:22.246"
+        },
+        {
+            "cotacaoCompra": 5.0945,
+            "cotacaoVenda": 5.0951,
+            "dataHoraCotacao": "2023-01-26 13:02:40.388"
+        },
+        {
+            "cotacaoCompra": 5.0761,
+            "cotacaoVenda": 5.0767,
+            "dataHoraCotacao": "2023-01-27 13:02:20.823"
+        },
+        {
+            "cotacaoCompra": 5.0953,
+            "cotacaoVenda": 5.0959,
+            "dataHoraCotacao": "2023-01-30 13:09:30.184"
+        },
+        {
+            "cotacaoCompra": 5.0987,
+            "cotacaoVenda": 5.0993,
+            "dataHoraCotacao": "2023-01-31 13:11:17.029"
+        },
+        {
+            "cotacaoCompra": 5.0715,
+            "cotacaoVenda": 5.0721,
+            "dataHoraCotacao": "2023-02-01 13:04:23.003"
+        },
+        {
+            "cotacaoCompra": 4.9895,
+            "cotacaoVenda": 4.9901,
+            "dataHoraCotacao": "2023-02-02 13:06:34.991"
+        },
+        {
+            "cotacaoCompra": 5.1024,
+            "cotacaoVenda": 5.103,
+            "dataHoraCotacao": "2023-02-03 13:10:20.729"
+        },
+        {
+            "cotacaoCompra": 5.1757,
+            "cotacaoVenda": 5.1763,
+            "dataHoraCotacao": "2023-02-06 13:09:36.686"
+        },
+        {
+            "cotacaoCompra": 5.1689,
+            "cotacaoVenda": 5.1695,
+            "dataHoraCotacao": "2023-02-07 13:10:17.648"
+        },
+        {
+            "cotacaoCompra": 5.203,
+            "cotacaoVenda": 5.2036,
+            "dataHoraCotacao": "2023-02-08 13:08:42.613"
+        },
+        {
+            "cotacaoCompra": 5.2309,
+            "cotacaoVenda": 5.2315,
+            "dataHoraCotacao": "2023-02-09 13:06:23.349"
+        },
+        {
+            "cotacaoCompra": 5.252,
+            "cotacaoVenda": 5.2526,
+            "dataHoraCotacao": "2023-02-10 13:11:17.992"
+        },
+        {
+            "cotacaoCompra": 5.1828,
+            "cotacaoVenda": 5.1834,
+            "dataHoraCotacao": "2023-02-13 13:07:17.912"
+        },
+        {
+            "cotacaoCompra": 5.1501,
+            "cotacaoVenda": 5.1507,
+            "dataHoraCotacao": "2023-02-14 13:04:31.517"
+        },
+        {
+            "cotacaoCompra": 5.2237,
+            "cotacaoVenda": 5.2243,
+            "dataHoraCotacao": "2023-02-15 13:10:05.932"
+        },
+        {
+            "cotacaoCompra": 5.2426,
+            "cotacaoVenda": 5.2432,
+            "dataHoraCotacao": "2023-02-16 13:07:19.16"
+        },
+        {
+            "cotacaoCompra": 5.2006,
+            "cotacaoVenda": 5.2012,
+            "dataHoraCotacao": "2023-02-17 13:11:21.869"
+        },
+        {
+            "cotacaoCompra": 5.1724,
+            "cotacaoVenda": 5.173,
+            "dataHoraCotacao": "2023-02-22 15:39:24.527"
+        },
+        {
+            "cotacaoCompra": 5.1324,
+            "cotacaoVenda": 5.133,
+            "dataHoraCotacao": "2023-02-23 13:05:18.359"
+        },
+        {
+            "cotacaoCompra": 5.1785,
+            "cotacaoVenda": 5.1791,
+            "dataHoraCotacao": "2023-02-24 13:10:55.215"
+        },
+        {
+            "cotacaoCompra": 5.1954,
+            "cotacaoVenda": 5.196,
+            "dataHoraCotacao": "2023-02-27 13:11:43.013"
+        },
+        {
+            "cotacaoCompra": 5.2072,
+            "cotacaoVenda": 5.2078,
+            "dataHoraCotacao": "2023-02-28 13:11:19.197"
+        },
+        {
+            "cotacaoCompra": 5.2064,
+            "cotacaoVenda": 5.207,
+            "dataHoraCotacao": "2023-03-01 13:07:21.4"
+        },
+        {
+            "cotacaoCompra": 5.2074,
+            "cotacaoVenda": 5.208,
+            "dataHoraCotacao": "2023-03-02 13:09:37.928"
+        },
+        {
+            "cotacaoCompra": 5.2031,
+            "cotacaoVenda": 5.2037,
+            "dataHoraCotacao": "2023-03-03 13:04:25.958"
+        },
+        {
+            "cotacaoCompra": 5.1964,
+            "cotacaoVenda": 5.197,
+            "dataHoraCotacao": "2023-03-06 13:06:23.946"
+        },
+        {
+            "cotacaoCompra": 5.1895,
+            "cotacaoVenda": 5.1901,
+            "dataHoraCotacao": "2023-03-07 13:04:16.368"
+        },
+        {
+            "cotacaoCompra": 5.1381,
+            "cotacaoVenda": 5.1387,
+            "dataHoraCotacao": "2023-03-08 13:08:39.391"
+        },
+        {
+            "cotacaoCompra": 5.1347,
+            "cotacaoVenda": 5.1353,
+            "dataHoraCotacao": "2023-03-09 13:07:27.955"
+        },
+        {
+            "cotacaoCompra": 5.1816,
+            "cotacaoVenda": 5.1822,
+            "dataHoraCotacao": "2023-03-10 13:04:39.316"
+        },
+        {
+            "cotacaoCompra": 5.2394,
+            "cotacaoVenda": 5.24,
+            "dataHoraCotacao": "2023-03-13 13:07:19.847"
+        },
+        {
+            "cotacaoCompra": 5.2356,
+            "cotacaoVenda": 5.2362,
+            "dataHoraCotacao": "2023-03-14 13:06:42.426"
+        },
+        {
+            "cotacaoCompra": 5.2975,
+            "cotacaoVenda": 5.2981,
+            "dataHoraCotacao": "2023-03-15 13:10:23.373"
+        },
+        {
+            "cotacaoCompra": 5.2886,
+            "cotacaoVenda": 5.2892,
+            "dataHoraCotacao": "2023-03-16 13:08:36.441"
+        },
+        {
+            "cotacaoCompra": 5.2673,
+            "cotacaoVenda": 5.2679,
+            "dataHoraCotacao": "2023-03-17 13:06:41.604"
+        },
+        {
+            "cotacaoCompra": 5.2461,
+            "cotacaoVenda": 5.2467,
+            "dataHoraCotacao": "2023-03-20 13:09:32.724"
+        },
+        {
+            "cotacaoCompra": 5.2438,
+            "cotacaoVenda": 5.2444,
+            "dataHoraCotacao": "2023-03-21 13:02:26.895"
+        },
+        {
+            "cotacaoCompra": 5.2642,
+            "cotacaoVenda": 5.2648,
+            "dataHoraCotacao": "2023-03-22 13:03:35.608"
+        },
+        {
+            "cotacaoCompra": 5.2626,
+            "cotacaoVenda": 5.2632,
+            "dataHoraCotacao": "2023-03-23 13:11:17.083"
+        },
+        {
+            "cotacaoCompra": 5.2915,
+            "cotacaoVenda": 5.2921,
+            "dataHoraCotacao": "2023-03-24 13:10:20.867"
+        },
+        {
+            "cotacaoCompra": 5.23,
+            "cotacaoVenda": 5.2306,
+            "dataHoraCotacao": "2023-03-27 13:04:25.505"
+        },
+        {
+            "cotacaoCompra": 5.1727,
+            "cotacaoVenda": 5.1733,
+            "dataHoraCotacao": "2023-03-28 13:06:23.561"
+        },
+        {
+            "cotacaoCompra": 5.1487,
+            "cotacaoVenda": 5.1493,
+            "dataHoraCotacao": "2023-03-29 13:03:45.818"
+        },
+        {
+            "cotacaoCompra": 5.1248,
+            "cotacaoVenda": 5.1254,
+            "dataHoraCotacao": "2023-03-30 13:11:18.582"
+        },
+        {
+            "cotacaoCompra": 5.0798,
+            "cotacaoVenda": 5.0804,
+            "dataHoraCotacao": "2023-03-31 13:03:22.571"
+        },
+        {
+            "cotacaoCompra": 5.0631,
+            "cotacaoVenda": 5.0637,
+            "dataHoraCotacao": "2023-04-03 13:04:18.827"
+        },
+        {
+            "cotacaoCompra": 5.0756,
+            "cotacaoVenda": 5.0762,
+            "dataHoraCotacao": "2023-04-04 13:04:34.464"
+        },
+        {
+            "cotacaoCompra": 5.0441,
+            "cotacaoVenda": 5.0447,
+            "dataHoraCotacao": "2023-04-05 13:05:17.533"
+        },
+        {
+            "cotacaoCompra": 5.0677,
+            "cotacaoVenda": 5.0683,
+            "dataHoraCotacao": "2023-04-06 13:03:26.701"
+        },
+        {
+            "cotacaoCompra": 5.0828,
+            "cotacaoVenda": 5.0834,
+            "dataHoraCotacao": "2023-04-10 13:06:33.063"
+        },
+        {
+            "cotacaoCompra": 5.0122,
+            "cotacaoVenda": 5.0128,
+            "dataHoraCotacao": "2023-04-11 13:08:32.067"
+        },
+        {
+            "cotacaoCompra": 4.949,
+            "cotacaoVenda": 4.9496,
+            "dataHoraCotacao": "2023-04-12 13:06:18.938"
+        },
+        {
+            "cotacaoCompra": 4.9091,
+            "cotacaoVenda": 4.9097,
+            "dataHoraCotacao": "2023-04-13 13:05:15.825"
+        },
+        {
+            "cotacaoCompra": 4.9449,
+            "cotacaoVenda": 4.9455,
+            "dataHoraCotacao": "2023-04-14 13:05:18.797"
+        },
+        {
+            "cotacaoCompra": 4.9415,
+            "cotacaoVenda": 4.9421,
+            "dataHoraCotacao": "2023-04-17 13:27:04.05"
+        },
+        {
+            "cotacaoCompra": 4.9672,
+            "cotacaoVenda": 4.9678,
+            "dataHoraCotacao": "2023-04-18 13:06:23.327"
+        },
+        {
+            "cotacaoCompra": 5.0461,
+            "cotacaoVenda": 5.0467,
+            "dataHoraCotacao": "2023-04-19 13:05:45.757"
+        },
+        {
+            "cotacaoCompra": 5.0491,
+            "cotacaoVenda": 5.0497,
+            "dataHoraCotacao": "2023-04-20 13:06:23.988"
+        },
+        {
+            "cotacaoCompra": 5.0589,
+            "cotacaoVenda": 5.0595,
+            "dataHoraCotacao": "2023-04-24 13:11:39.727"
+        },
+        {
+            "cotacaoCompra": 5.0607,
+            "cotacaoVenda": 5.0613,
+            "dataHoraCotacao": "2023-04-25 13:06:29.387"
+        },
+        {
+            "cotacaoCompra": 5.0579,
+            "cotacaoVenda": 5.0585,
+            "dataHoraCotacao": "2023-04-26 13:09:29.782"
+        },
+        {
+            "cotacaoCompra": 5.0144,
+            "cotacaoVenda": 5.015,
+            "dataHoraCotacao": "2023-04-27 13:02:22.639"
+        },
+        {
+            "cotacaoCompra": 5.0001,
+            "cotacaoVenda": 5.0007,
+            "dataHoraCotacao": "2023-04-28 13:06:19.082"
+        },
+        {
+            "cotacaoCompra": 5.0329,
+            "cotacaoVenda": 5.0334,
+            "dataHoraCotacao": "2023-05-02 13:10:18.402"
+        },
+        {
+            "cotacaoCompra": 5.0221,
+            "cotacaoVenda": 5.0227,
+            "dataHoraCotacao": "2023-05-03 13:02:19.835"
+        },
+        {
+            "cotacaoCompra": 5.01,
+            "cotacaoVenda": 5.0106,
+            "dataHoraCotacao": "2023-05-04 13:04:49.822"
+        },
+        {
+            "cotacaoCompra": 4.969,
+            "cotacaoVenda": 4.9696,
+            "dataHoraCotacao": "2023-05-05 13:05:21.278"
+        },
+        {
+            "cotacaoCompra": 4.969,
+            "cotacaoVenda": 4.9696,
+            "dataHoraCotacao": "2023-05-08 13:02:22.317"
+        },
+        {
+            "cotacaoCompra": 5.0001,
+            "cotacaoVenda": 5.0007,
+            "dataHoraCotacao": "2023-05-09 13:08:21.788"
+        },
+        {
+            "cotacaoCompra": 4.9541,
+            "cotacaoVenda": 4.9547,
+            "dataHoraCotacao": "2023-05-10 13:03:19.227"
+        },
+        {
+            "cotacaoCompra": 4.969,
+            "cotacaoVenda": 4.9696,
+            "dataHoraCotacao": "2023-05-11 13:09:27.758"
+        },
+        {
+            "cotacaoCompra": 4.9228,
+            "cotacaoVenda": 4.9234,
+            "dataHoraCotacao": "2023-05-12 13:06:02.799"
+        },
+        {
+            "cotacaoCompra": 4.9097,
+            "cotacaoVenda": 4.9103,
+            "dataHoraCotacao": "2023-05-15 13:04:38.278"
+        },
+        {
+            "cotacaoCompra": 4.9116,
+            "cotacaoVenda": 4.9122,
+            "dataHoraCotacao": "2023-05-16 13:09:16.669"
+        },
+        {
+            "cotacaoCompra": 4.9507,
+            "cotacaoVenda": 4.9513,
+            "dataHoraCotacao": "2023-05-17 13:06:15.757"
+        },
+        {
+            "cotacaoCompra": 4.9641,
+            "cotacaoVenda": 4.9647,
+            "dataHoraCotacao": "2023-05-18 13:09:20.696"
+        },
+        {
+            "cotacaoCompra": 4.9852,
+            "cotacaoVenda": 4.9858,
+            "dataHoraCotacao": "2023-05-19 13:08:16.885"
+        },
+        {
+            "cotacaoCompra": 4.9674,
+            "cotacaoVenda": 4.968,
+            "dataHoraCotacao": "2023-05-22 13:05:22.716"
+        },
+        {
+            "cotacaoCompra": 4.9668,
+            "cotacaoVenda": 4.9674,
+            "dataHoraCotacao": "2023-05-23 13:08:23.321"
+        },
+        {
+            "cotacaoCompra": 4.9468,
+            "cotacaoVenda": 4.9474,
+            "dataHoraCotacao": "2023-05-24 13:04:35.737"
+        },
+        {
+            "cotacaoCompra": 4.9984,
+            "cotacaoVenda": 4.999,
+            "dataHoraCotacao": "2023-05-25 13:04:36.531"
+        },
+        {
+            "cotacaoCompra": 5.0108,
+            "cotacaoVenda": 5.0114,
+            "dataHoraCotacao": "2023-05-26 13:07:17.73"
+        },
+        {
+            "cotacaoCompra": 4.9948,
+            "cotacaoVenda": 4.9954,
+            "dataHoraCotacao": "2023-05-29 13:10:18.54"
+        },
+        {
+            "cotacaoCompra": 5.0587,
+            "cotacaoVenda": 5.0593,
+            "dataHoraCotacao": "2023-05-30 13:11:51.392"
+        },
+        {
+            "cotacaoCompra": 5.0953,
+            "cotacaoVenda": 5.0959,
+            "dataHoraCotacao": "2023-05-31 13:08:48.515"
+        },
+        {
+            "cotacaoCompra": 5.0344,
+            "cotacaoVenda": 5.035,
+            "dataHoraCotacao": "2023-06-01 13:07:17.224"
+        },
+        {
+            "cotacaoCompra": 4.9552,
+            "cotacaoVenda": 4.9558,
+            "dataHoraCotacao": "2023-06-02 13:11:19.302"
+        },
+        {
+            "cotacaoCompra": 4.923,
+            "cotacaoVenda": 4.9236,
+            "dataHoraCotacao": "2023-06-05 13:09:24.732"
+        },
+        {
+            "cotacaoCompra": 4.9286,
+            "cotacaoVenda": 4.9292,
+            "dataHoraCotacao": "2023-06-06 13:06:25.817"
+        },
+        {
+            "cotacaoCompra": 4.9113,
+            "cotacaoVenda": 4.9119,
+            "dataHoraCotacao": "2023-06-07 13:09:16.372"
+        },
+        {
+            "cotacaoCompra": 4.8916,
+            "cotacaoVenda": 4.8922,
+            "dataHoraCotacao": "2023-06-09 13:10:17.92"
+        },
+        {
+            "cotacaoCompra": 4.8826,
+            "cotacaoVenda": 4.8832,
+            "dataHoraCotacao": "2023-06-12 13:03:35.049"
+        },
+        {
+            "cotacaoCompra": 4.8527,
+            "cotacaoVenda": 4.8533,
+            "dataHoraCotacao": "2023-06-13 13:09:17.108"
+        },
+        {
+            "cotacaoCompra": 4.8456,
+            "cotacaoVenda": 4.8462,
+            "dataHoraCotacao": "2023-06-14 13:06:22.3"
+        },
+        {
+            "cotacaoCompra": 4.8216,
+            "cotacaoVenda": 4.8222,
+            "dataHoraCotacao": "2023-06-15 13:09:16.317"
+        },
+        {
+            "cotacaoCompra": 4.828,
+            "cotacaoVenda": 4.8286,
+            "dataHoraCotacao": "2023-06-16 13:02:18.255"
+        },
+        {
+            "cotacaoCompra": 4.7797,
+            "cotacaoVenda": 4.7803,
+            "dataHoraCotacao": "2023-06-19 13:07:00.3"
+        },
+        {
+            "cotacaoCompra": 4.7924,
+            "cotacaoVenda": 4.793,
+            "dataHoraCotacao": "2023-06-20 13:05:18.124"
+        },
+        {
+            "cotacaoCompra": 4.7789,
+            "cotacaoVenda": 4.7795,
+            "dataHoraCotacao": "2023-06-21 13:02:16.485"
+        },
+        {
+            "cotacaoCompra": 4.7744,
+            "cotacaoVenda": 4.775,
+            "dataHoraCotacao": "2023-06-22 13:08:23.693"
+        },
+        {
+            "cotacaoCompra": 4.7793,
+            "cotacaoVenda": 4.7799,
+            "dataHoraCotacao": "2023-06-23 13:09:21.781"
+        },
+        {
+            "cotacaoCompra": 4.7692,
+            "cotacaoVenda": 4.7698,
+            "dataHoraCotacao": "2023-06-26 13:02:20.091"
+        },
+        {
+            "cotacaoCompra": 4.7897,
+            "cotacaoVenda": 4.7903,
+            "dataHoraCotacao": "2023-06-27 13:05:03.712"
+        },
+        {
+            "cotacaoCompra": 4.8557,
+            "cotacaoVenda": 4.8563,
+            "dataHoraCotacao": "2023-06-28 13:10:26.062"
+        },
+        {
+            "cotacaoCompra": 4.8578,
+            "cotacaoVenda": 4.8584,
+            "dataHoraCotacao": "2023-06-29 13:03:21.705"
+        },
+        {
+            "cotacaoCompra": 4.8186,
+            "cotacaoVenda": 4.8192,
+            "dataHoraCotacao": "2023-06-30 13:10:24.365"
+        },
+        {
+            "cotacaoCompra": 4.787,
+            "cotacaoVenda": 4.7876,
+            "dataHoraCotacao": "2023-07-03 13:07:21.026"
+        },
+        {
+            "cotacaoCompra": 4.805,
+            "cotacaoVenda": 4.8056,
+            "dataHoraCotacao": "2023-07-04 13:06:26.268"
+        },
+        {
+            "cotacaoCompra": 4.8571,
+            "cotacaoVenda": 4.8577,
+            "dataHoraCotacao": "2023-07-05 13:11:18.189"
+        },
+        {
+            "cotacaoCompra": 4.8971,
+            "cotacaoVenda": 4.8977,
+            "dataHoraCotacao": "2023-07-06 13:07:23.157"
+        },
+        {
+            "cotacaoCompra": 4.8793,
+            "cotacaoVenda": 4.8799,
+            "dataHoraCotacao": "2023-07-07 13:03:18.04"
+        },
+        {
+            "cotacaoCompra": 4.8729,
+            "cotacaoVenda": 4.8735,
+            "dataHoraCotacao": "2023-07-10 13:09:19.369"
+        },
+        {
+            "cotacaoCompra": 4.8943,
+            "cotacaoVenda": 4.8949,
+            "dataHoraCotacao": "2023-07-11 13:03:43.48"
+        },
+        {
+            "cotacaoCompra": 4.8052,
+            "cotacaoVenda": 4.8058,
+            "dataHoraCotacao": "2023-07-12 13:07:21.656"
+        },
+        {
+            "cotacaoCompra": 4.8032,
+            "cotacaoVenda": 4.8038,
+            "dataHoraCotacao": "2023-07-13 13:09:16.6"
+        },
+        {
+            "cotacaoCompra": 4.7951,
+            "cotacaoVenda": 4.7957,
+            "dataHoraCotacao": "2023-07-14 13:08:19.613"
+        },
+        {
+            "cotacaoCompra": 4.8296,
+            "cotacaoVenda": 4.8302,
+            "dataHoraCotacao": "2023-07-17 13:06:45.114"
+        },
+        {
+            "cotacaoCompra": 4.8034,
+            "cotacaoVenda": 4.804,
+            "dataHoraCotacao": "2023-07-18 13:04:55.125"
+        },
+        {
+            "cotacaoCompra": 4.7994,
+            "cotacaoVenda": 4.8,
+            "dataHoraCotacao": "2023-07-19 13:08:34.698"
+        },
+        {
+            "cotacaoCompra": 4.7882,
+            "cotacaoVenda": 4.7888,
+            "dataHoraCotacao": "2023-07-20 13:10:25.034"
+        },
+        {
+            "cotacaoCompra": 4.7726,
+            "cotacaoVenda": 4.7732,
+            "dataHoraCotacao": "2023-07-21 13:03:18.13"
+        },
+        {
+            "cotacaoCompra": 4.7451,
+            "cotacaoVenda": 4.7457,
+            "dataHoraCotacao": "2023-07-24 13:07:25.216"
+        },
+        {
+            "cotacaoCompra": 4.749,
+            "cotacaoVenda": 4.7496,
+            "dataHoraCotacao": "2023-07-25 13:11:28.371"
+        },
+        {
+            "cotacaoCompra": 4.7362,
+            "cotacaoVenda": 4.7368,
+            "dataHoraCotacao": "2023-07-26 13:03:17.208"
+        },
+        {
+            "cotacaoCompra": 4.7196,
+            "cotacaoVenda": 4.7202,
+            "dataHoraCotacao": "2023-07-27 13:09:18.232"
+        },
+        {
+            "cotacaoCompra": 4.7247,
+            "cotacaoVenda": 4.7253,
+            "dataHoraCotacao": "2023-07-28 13:02:47.965"
+        },
+        {
+            "cotacaoCompra": 4.7409,
+            "cotacaoVenda": 4.7415,
+            "dataHoraCotacao": "2023-07-31 13:02:52.412"
+        },
+        {
+            "cotacaoCompra": 4.7746,
+            "cotacaoVenda": 4.7752,
+            "dataHoraCotacao": "2023-08-01 13:06:17.378"
+        },
+        {
+            "cotacaoCompra": 4.8077,
+            "cotacaoVenda": 4.8083,
+            "dataHoraCotacao": "2023-08-02 13:10:20.27"
+        },
+        {
+            "cotacaoCompra": 4.8791,
+            "cotacaoVenda": 4.8797,
+            "dataHoraCotacao": "2023-08-03 13:08:03.164"
+        },
+        {
+            "cotacaoCompra": 4.8603,
+            "cotacaoVenda": 4.8609,
+            "dataHoraCotacao": "2023-08-04 13:04:37.236"
+        },
+        {
+            "cotacaoCompra": 4.9004,
+            "cotacaoVenda": 4.901,
+            "dataHoraCotacao": "2023-08-07 13:07:35.511"
+        },
+        {
+            "cotacaoCompra": 4.9211,
+            "cotacaoVenda": 4.9217,
+            "dataHoraCotacao": "2023-08-08 13:04:21.789"
+        },
+        {
+            "cotacaoCompra": 4.9009,
+            "cotacaoVenda": 4.9015,
+            "dataHoraCotacao": "2023-08-09 13:03:21.687"
+        },
+        {
+            "cotacaoCompra": 4.8512,
+            "cotacaoVenda": 4.8518,
+            "dataHoraCotacao": "2023-08-10 13:12:06.353"
+        },
+        {
+            "cotacaoCompra": 4.8912,
+            "cotacaoVenda": 4.8918,
+            "dataHoraCotacao": "2023-08-11 13:03:44.628"
+        },
+        {
+            "cotacaoCompra": 4.9475,
+            "cotacaoVenda": 4.9481,
+            "dataHoraCotacao": "2023-08-14 13:09:35.618"
+        },
+        {
+            "cotacaoCompra": 4.9806,
+            "cotacaoVenda": 4.9812,
+            "dataHoraCotacao": "2023-08-15 13:11:36.648"
+        },
+        {
+            "cotacaoCompra": 4.9765,
+            "cotacaoVenda": 4.9772,
+            "dataHoraCotacao": "2023-08-16 13:04:51.036"
+        },
+        {
+            "cotacaoCompra": 4.981,
+            "cotacaoVenda": 4.9816,
+            "dataHoraCotacao": "2023-08-17 13:03:34.29"
+        },
+        {
+            "cotacaoCompra": 4.9718,
+            "cotacaoVenda": 4.9724,
+            "dataHoraCotacao": "2023-08-18 13:11:27.956"
+        },
+        {
+            "cotacaoCompra": 4.9841,
+            "cotacaoVenda": 4.9847,
+            "dataHoraCotacao": "2023-08-21 13:10:30.405"
+        },
+        {
+            "cotacaoCompra": 4.9425,
+            "cotacaoVenda": 4.9431,
+            "dataHoraCotacao": "2023-08-22 13:10:36.38"
+        },
+        {
+            "cotacaoCompra": 4.8971,
+            "cotacaoVenda": 4.8977,
+            "dataHoraCotacao": "2023-08-23 13:11:37.796"
+        },
+        {
+            "cotacaoCompra": 4.8742,
+            "cotacaoVenda": 4.8748,
+            "dataHoraCotacao": "2023-08-24 13:09:40.271"
+        },
+        {
+            "cotacaoCompra": 4.8766,
+            "cotacaoVenda": 4.8772,
+            "dataHoraCotacao": "2023-08-25 13:08:26.496"
+        },
+        {
+            "cotacaoCompra": 4.8933,
+            "cotacaoVenda": 4.8938,
+            "dataHoraCotacao": "2023-08-28 13:08:30.597"
+        },
+        {
+            "cotacaoCompra": 4.87,
+            "cotacaoVenda": 4.8706,
+            "dataHoraCotacao": "2023-08-29 13:04:32.275"
+        },
+        {
+            "cotacaoCompra": 4.8647,
+            "cotacaoVenda": 4.8653,
+            "dataHoraCotacao": "2023-08-30 13:06:37.133"
+        },
+        {
+            "cotacaoCompra": 4.9213,
+            "cotacaoVenda": 4.9219,
+            "dataHoraCotacao": "2023-08-31 13:02:58.521"
+        },
+        {
+            "cotacaoCompra": 4.9312,
+            "cotacaoVenda": 4.9318,
+            "dataHoraCotacao": "2023-09-01 13:10:27.706"
+        },
+        {
+            "cotacaoCompra": 4.917,
+            "cotacaoVenda": 4.9176,
+            "dataHoraCotacao": "2023-09-04 13:06:46.876"
+        },
+        {
+            "cotacaoCompra": 4.9699,
+            "cotacaoVenda": 4.9705,
+            "dataHoraCotacao": "2023-09-05 13:02:32.338"
+        },
+        {
+            "cotacaoCompra": 4.9756,
+            "cotacaoVenda": 4.9762,
+            "dataHoraCotacao": "2023-09-06 13:08:32.673"
+        },
+        {
+            "cotacaoCompra": 4.9829,
+            "cotacaoVenda": 4.9835,
+            "dataHoraCotacao": "2023-09-08 13:11:28.677"
+        },
+        {
+            "cotacaoCompra": 4.936,
+            "cotacaoVenda": 4.9366,
+            "dataHoraCotacao": "2023-09-11 13:07:29.047"
+        },
+        {
+            "cotacaoCompra": 4.9499,
+            "cotacaoVenda": 4.9505,
+            "dataHoraCotacao": "2023-09-12 13:05:38.148"
+        },
+        {
+            "cotacaoCompra": 4.9165,
+            "cotacaoVenda": 4.9171,
+            "dataHoraCotacao": "2023-09-13 13:08:19.757"
+        },
+        {
+            "cotacaoCompra": 4.8745,
+            "cotacaoVenda": 4.8751,
+            "dataHoraCotacao": "2023-09-14 13:10:28.686"
+        },
+        {
+            "cotacaoCompra": 4.8683,
+            "cotacaoVenda": 4.8689,
+            "dataHoraCotacao": "2023-09-15 13:11:32.198"
+        },
+        {
+            "cotacaoCompra": 4.8529,
+            "cotacaoVenda": 4.8535,
+            "dataHoraCotacao": "2023-09-18 13:09:26.976"
+        },
+        {
+            "cotacaoCompra": 4.8569,
+            "cotacaoVenda": 4.8575,
+            "dataHoraCotacao": "2023-09-19 13:03:30.155"
+        },
+        {
+            "cotacaoCompra": 4.8481,
+            "cotacaoVenda": 4.8487,
+            "dataHoraCotacao": "2023-09-20 13:11:31.016"
+        },
+        {
+            "cotacaoCompra": 4.9223,
+            "cotacaoVenda": 4.9229,
+            "dataHoraCotacao": "2023-09-21 13:06:45.141"
+        },
+        {
+            "cotacaoCompra": 4.9125,
+            "cotacaoVenda": 4.9131,
+            "dataHoraCotacao": "2023-09-22 13:08:45.071"
+        },
+        {
+            "cotacaoCompra": 4.96,
+            "cotacaoVenda": 4.9606,
+            "dataHoraCotacao": "2023-09-25 13:10:42.04"
+        },
+        {
+            "cotacaoCompra": 4.9711,
+            "cotacaoVenda": 4.9717,
+            "dataHoraCotacao": "2023-09-26 13:10:33.749"
+        },
+        {
+            "cotacaoCompra": 5.0283,
+            "cotacaoVenda": 5.0289,
+            "dataHoraCotacao": "2023-09-27 13:02:52.495"
+        },
+        {
+            "cotacaoCompra": 5.0469,
+            "cotacaoVenda": 5.0475,
+            "dataHoraCotacao": "2023-09-28 13:02:35.109"
+        },
+        {
+            "cotacaoCompra": 5.007,
+            "cotacaoVenda": 5.0076,
+            "dataHoraCotacao": "2023-09-29 13:09:29.084"
+        },
+        {
+            "cotacaoCompra": 5.0673,
+            "cotacaoVenda": 5.0679,
+            "dataHoraCotacao": "2023-10-02 13:10:37.562"
+        },
+        {
+            "cotacaoCompra": 5.1094,
+            "cotacaoVenda": 5.11,
+            "dataHoraCotacao": "2023-10-03 13:06:35.216"
+        },
+        {
+            "cotacaoCompra": 5.152,
+            "cotacaoVenda": 5.1526,
+            "dataHoraCotacao": "2023-10-04 13:06:57.406"
+        },
+        {
+            "cotacaoCompra": 5.1707,
+            "cotacaoVenda": 5.1713,
+            "dataHoraCotacao": "2023-10-05 13:08:41.646"
+        },
+        {
+            "cotacaoCompra": 5.1912,
+            "cotacaoVenda": 5.1918,
+            "dataHoraCotacao": "2023-10-06 13:07:34.464"
+        },
+        {
+            "cotacaoCompra": 5.166,
+            "cotacaoVenda": 5.1666,
+            "dataHoraCotacao": "2023-10-09 13:22:11.067"
+        },
+        {
+            "cotacaoCompra": 5.0856,
+            "cotacaoVenda": 5.0862,
+            "dataHoraCotacao": "2023-10-10 13:11:30.76"
+        },
+        {
+            "cotacaoCompra": 5.049,
+            "cotacaoVenda": 5.0496,
+            "dataHoraCotacao": "2023-10-11 13:05:06.911"
+        },
+        {
+            "cotacaoCompra": 5.0619,
+            "cotacaoVenda": 5.0625,
+            "dataHoraCotacao": "2023-10-13 13:06:03.284"
+        },
+        {
+            "cotacaoCompra": 5.0612,
+            "cotacaoVenda": 5.0618,
+            "dataHoraCotacao": "2023-10-16 13:05:08.04"
+        },
+        {
+            "cotacaoCompra": 5.0378,
+            "cotacaoVenda": 5.0384,
+            "dataHoraCotacao": "2023-10-17 13:04:27.446"
+        },
+        {
+            "cotacaoCompra": 5.0562,
+            "cotacaoVenda": 5.0568,
+            "dataHoraCotacao": "2023-10-18 13:10:35.363"
+        },
+        {
+            "cotacaoCompra": 5.0534,
+            "cotacaoVenda": 5.054,
+            "dataHoraCotacao": "2023-10-19 13:07:36.744"
+        },
+        {
+            "cotacaoCompra": 5.0522,
+            "cotacaoVenda": 5.0528,
+            "dataHoraCotacao": "2023-10-20 13:06:42.393"
+        },
+        {
+            "cotacaoCompra": 5.0158,
+            "cotacaoVenda": 5.0164,
+            "dataHoraCotacao": "2023-10-23 13:07:40.798"
+        },
+        {
+            "cotacaoCompra": 5.0059,
+            "cotacaoVenda": 5.0065,
+            "dataHoraCotacao": "2023-10-24 13:07:29.666"
+        },
+        {
+            "cotacaoCompra": 4.9975,
+            "cotacaoVenda": 4.9981,
+            "dataHoraCotacao": "2023-10-25 13:08:28.731"
+        },
+        {
+            "cotacaoCompra": 5.0049,
+            "cotacaoVenda": 5.0055,
+            "dataHoraCotacao": "2023-10-26 13:04:30.356"
+        },
+        {
+            "cotacaoCompra": 4.9474,
+            "cotacaoVenda": 4.948,
+            "dataHoraCotacao": "2023-10-27 13:03:30.348"
+        },
+        {
+            "cotacaoCompra": 5.0068,
+            "cotacaoVenda": 5.0074,
+            "dataHoraCotacao": "2023-10-30 13:03:39.266"
+        },
+        {
+            "cotacaoCompra": 5.0569,
+            "cotacaoVenda": 5.0575,
+            "dataHoraCotacao": "2023-10-31 13:05:31.053"
+        },
+        {
+            "cotacaoCompra": 5.0188,
+            "cotacaoVenda": 5.0194,
+            "dataHoraCotacao": "2023-11-01 13:11:42.1"
+        },
+        {
+            "cotacaoCompra": 4.8904,
+            "cotacaoVenda": 4.891,
+            "dataHoraCotacao": "2023-11-03 13:05:47.571"
+        },
+        {
+            "cotacaoCompra": 4.8993,
+            "cotacaoVenda": 4.8999,
+            "dataHoraCotacao": "2023-11-06 13:05:30.746"
+        },
+        {
+            "cotacaoCompra": 4.8664,
+            "cotacaoVenda": 4.867,
+            "dataHoraCotacao": "2023-11-07 13:09:32.911"
+        },
+        {
+            "cotacaoCompra": 4.8849,
+            "cotacaoVenda": 4.8855,
+            "dataHoraCotacao": "2023-11-08 13:09:36.404"
+        },
+        {
+            "cotacaoCompra": 4.9001,
+            "cotacaoVenda": 4.9007,
+            "dataHoraCotacao": "2023-11-09 13:08:31.522"
+        },
+        {
+            "cotacaoCompra": 4.9213,
+            "cotacaoVenda": 4.9219,
+            "dataHoraCotacao": "2023-11-10 13:05:44.478"
+        },
+        {
+            "cotacaoCompra": 4.924,
+            "cotacaoVenda": 4.9247,
+            "dataHoraCotacao": "2023-11-13 13:11:27.54"
+        },
+        {
+            "cotacaoCompra": 4.8676,
+            "cotacaoVenda": 4.8682,
+            "dataHoraCotacao": "2023-11-14 13:04:30.632"
+        },
+        {
+            "cotacaoCompra": 4.8569,
+            "cotacaoVenda": 4.8575,
+            "dataHoraCotacao": "2023-11-16 13:06:32.07"
+        },
+        {
+            "cotacaoCompra": 4.8843,
+            "cotacaoVenda": 4.8849,
+            "dataHoraCotacao": "2023-11-17 13:06:31.816"
+        },
+        {
+            "cotacaoCompra": 4.8717,
+            "cotacaoVenda": 4.8723,
+            "dataHoraCotacao": "2023-11-20 13:05:32.464"
+        },
+        {
+            "cotacaoCompra": 4.88,
+            "cotacaoVenda": 4.8806,
+            "dataHoraCotacao": "2023-11-21 13:07:37.677"
+        },
+        {
+            "cotacaoCompra": 4.8962,
+            "cotacaoVenda": 4.8968,
+            "dataHoraCotacao": "2023-11-22 13:09:27.054"
+        },
+        {
+            "cotacaoCompra": 4.8925,
+            "cotacaoVenda": 4.8931,
+            "dataHoraCotacao": "2023-11-23 13:08:28.913"
+        },
+        {
+            "cotacaoCompra": 4.8921,
+            "cotacaoVenda": 4.8927,
+            "dataHoraCotacao": "2023-11-24 13:08:29.188"
+        },
+        {
+            "cotacaoCompra": 4.8945,
+            "cotacaoVenda": 4.8951,
+            "dataHoraCotacao": "2023-11-27 13:08:38.431"
+        },
+        {
+            "cotacaoCompra": 4.8861,
+            "cotacaoVenda": 4.8867,
+            "dataHoraCotacao": "2023-11-28 13:07:48.77"
+        },
+        {
+            "cotacaoCompra": 4.8927,
+            "cotacaoVenda": 4.8933,
+            "dataHoraCotacao": "2023-11-29 13:09:28.279"
+        },
+        {
+            "cotacaoCompra": 4.9349,
+            "cotacaoVenda": 4.9355,
+            "dataHoraCotacao": "2023-11-30 13:04:55.748"
+        },
+        {
+            "cotacaoCompra": 4.9185,
+            "cotacaoVenda": 4.9191,
+            "dataHoraCotacao": "2023-12-01 13:04:28.599"
+        },
+        {
+            "cotacaoCompra": 4.9085,
+            "cotacaoVenda": 4.9091,
+            "dataHoraCotacao": "2023-12-04 13:05:27.398"
+        },
+        {
+            "cotacaoCompra": 4.9516,
+            "cotacaoVenda": 4.9522,
+            "dataHoraCotacao": "2023-12-05 13:05:41.139"
+        },
+        {
+            "cotacaoCompra": 4.9025,
+            "cotacaoVenda": 4.9031,
+            "dataHoraCotacao": "2023-12-06 13:09:42.379"
+        },
+        {
+            "cotacaoCompra": 4.8943,
+            "cotacaoVenda": 4.8949,
+            "dataHoraCotacao": "2023-12-07 13:04:06.964"
+        },
+        {
+            "cotacaoCompra": 4.9152,
+            "cotacaoVenda": 4.9158,
+            "dataHoraCotacao": "2023-12-08 13:05:40.626"
+        },
+        {
+            "cotacaoCompra": 4.9434,
+            "cotacaoVenda": 4.944,
+            "dataHoraCotacao": "2023-12-11 13:06:51.944"
+        },
+        {
+            "cotacaoCompra": 4.947,
+            "cotacaoVenda": 4.9476,
+            "dataHoraCotacao": "2023-12-12 13:02:38.028"
+        },
+        {
+            "cotacaoCompra": 4.9573,
+            "cotacaoVenda": 4.958,
+            "dataHoraCotacao": "2023-12-13 13:09:31.499"
+        },
+        {
+            "cotacaoCompra": 4.8906,
+            "cotacaoVenda": 4.8912,
+            "dataHoraCotacao": "2023-12-14 13:09:42.568"
+        },
+        {
+            "cotacaoCompra": 4.9391,
+            "cotacaoVenda": 4.9397,
+            "dataHoraCotacao": "2023-12-15 13:09:09.119"
+        },
+        {
+            "cotacaoCompra": 4.9393,
+            "cotacaoVenda": 4.9399,
+            "dataHoraCotacao": "2023-12-18 13:05:33.405"
+        },
+        {
+            "cotacaoCompra": 4.8657,
+            "cotacaoVenda": 4.8663,
+            "dataHoraCotacao": "2023-12-19 13:04:31.068"
+        },
+        {
+            "cotacaoCompra": 4.876,
+            "cotacaoVenda": 4.8766,
+            "dataHoraCotacao": "2023-12-20 13:04:28.828"
+        },
+        {
+            "cotacaoCompra": 4.8749,
+            "cotacaoVenda": 4.8755,
+            "dataHoraCotacao": "2023-12-21 13:07:35.231"
+        },
+        {
+            "cotacaoCompra": 4.8613,
+            "cotacaoVenda": 4.8619,
+            "dataHoraCotacao": "2023-12-22 13:02:59.214"
+        },
+        {
+            "cotacaoCompra": 4.8362,
+            "cotacaoVenda": 4.8368,
+            "dataHoraCotacao": "2023-12-26 13:07:41.053"
+        },
+        {
+            "cotacaoCompra": 4.83,
+            "cotacaoVenda": 4.8306,
+            "dataHoraCotacao": "2023-12-27 13:05:01.784"
+        },
+        {
+            "cotacaoCompra": 4.8407,
+            "cotacaoVenda": 4.8413,
+            "dataHoraCotacao": "2023-12-28 13:04:46.986"
+        },
+        {
+            "cotacaoCompra": 4.8407,
+            "cotacaoVenda": 4.8413,
+            "dataHoraCotacao": "2023-12-29 10:04:11.873"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+Recupere todo o contexto da conversa em que discutimos o seguinte:
+
+1. Dificuldade em montar a string de consulta da URL da API do Banco Central para obter a cotação do dólar. Mencionamos erros como "InvalidSchema" e a necessidade de entender melhor a documentação da API.
+2. Conversamos sobre a extração de dados do formato JSON retornado pela API para um CSV, usando a função `pd.json_normalize()` do Pandas.
+3. Foi elaborado um relatório detalhado sobre essas dificuldades e suas soluções, que incluía a justificativa do uso de IA e o entendimento da documentação como meios para superar esses desafios.
+4. Finalizamos com a criação do relatório formatado em Markdown.
+
+Recupere todas essas informações com detalhes e a solução que sugerimos para cada dificuldade.
